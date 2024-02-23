@@ -1,11 +1,10 @@
 <p align="center">
-  <a href="https://github.com/tamzi/ReadMe-MasterTemplates">
-    <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/art/readmemastertemplate.jpg" alt="ReadMe Master Templates" width=230 height=150>
+  <a href="https://gringottsapp.netlify.app/home">
+    <img src="https://github.com/Gringotts-Team/webapp-gringotts/blob/main/src/assets/img/gringotts_logo.png" alt="Gringotts logo" width=200 height=200>
   </a>
-  <h2 align="center">ReadMe Master Templates</h2>
-
+  <h2 align="center"><a href="https://gringottsapp.netlify.app/home">Gringotts Bank</a></h2>
   <p align="center">
-    If you are working on your projects and using github, the README.md file is a useful starter place for you to write good and clear documentations for  your projects. Use this readMe roject to get started with your project's ReadMe.md file.
+This project was carried out through the internships undertaken at Kinetic Software.    
     <br>
     </p>
 </p>
@@ -26,94 +25,62 @@
 
 ### Description
 
-Despite the fact that you writing a technical document, it needs to be clear. Describing your project makes it easier for people to contribute to it and alos use it!
+This web application integrates a front-end developed in Angular, hosted on Netlify, with a .NET back-end and a PostgreSQL SQL database deployed on Microsoft Azure. 
 
-In this project you wil find the following readMes:
+Within this organization, you will find the following projects:
 
- - [Android Project ReadMe template](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
- - [Web project template](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)
- - A General contibutions guide in each project
+ - [Angular Web App](https://github.com/Gringotts-Team/webapp-gringotts/tree/main)
+ - [C# Web Api](https://github.com/Gringotts-Team/webapi-gringotts)
+ - [Database Scripts and Info](https://github.com/Gringotts-Team/database-gringotts)
 
 <hr>
 
-### Why the Master Templates?
+### What is Gringoots App?
 
-With the use of version control, there is a huge struggle among most people to do a brief of what their project is about.
-Lets face it, most developers are not into typing out prose to explain what they just built. Others dread the whole process of documenting it.
-<br>
-In addition, what to include so that someone else working on their project can benefit from their amazing work can sometimes be a hard task.
-<br>
-This is the foundation behind this project. A sample project that allows you to get started with a well written **ReadMe.md** file.
+Gringotts Bank is an application developed during my internship at Kinetic Software by a team of four people. It is designed for bank employees with a fantasy theme.
 
-ReadMe MasterTemplates:
-* Give developers an easy time when writing their project ReadMe.
+From the outset, we researched vendors for deployments. We used Jira to track our progress, breaking down the stages of the process into Epics -> User Stories -> Tasks.
 
-* Enable more time to be spent coding out their projects.
-
-* Help us have better github projects without one liners.
-
-* Help people who want to use the various projects on github to know more about the project's architecture.
+The application has two types of users with access to different functions. We prioritized security, implementing secure routing, password hashing, and authorization tokens, among other measures.
 
 
 <hr>
 
 ### How to use them
 
-1. All the files are in markdown format. While it is good to learn markdown. It is always great to have the [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) bookmarked somewhere in your browser.
-If you can learn it, awesome! It will save you time...But it really is not important: **the more you use markdown, the better you get at it O.o**.
-
-2. There are different Markdown templates for each type of project as below: 
-    * [Android](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)- For android focused ReadMe
-    * [Website](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)- For your HTML&CSS JS projects
-    * [brief](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/brief/brief.md)  - minimal version
-    * IOS ...coming soon - FOr IOS projects
-    * Scripts ....coming soon - For Python, JS type projects
-
-
-3. Copy the respective files depending on the type of project. Paste it and edit the file.
-
-4. As a general rule, provide link to download the app if its published on the playstore /website if it is hosted at the description section above.See image below
-:point_down: :point_down:
-
-![Edit the Website link](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/website/art/web.png)
-
-5. Want to give a suggestion? Feel free: it's open source. you can [raise issues here](https://github.com/tamzi/ReadMe-MasterTemplates/issues):
+The aplication is deployed in https://gringottsapp.netlify.app
 
 
 <hr>
 
 ### Roadmap
   🚧 👷‍ ⛏ 👷 🔧️ 🚧
-- [x] Create An Android Projects ReadMe.
-- [x] Create a flutter Projects ReadMe.
-- [x] Create a website ReadMe for Html and css and JS projects.
-- [x] Create a brief ReadMe for the quick ones.
-- [ ] Creat a Scripts ReadMe file for Python, php, js type projects
-- [ ] Create a ReadMe file for IOS projects
-- [ ] Create a ReadMe generator for VSCode
-- [ ] Create a documenation page: [WIP documenation](https://tamzi.github.io/ReadMe-MasterTemplates/)
+- GEP-01 Release Zero
+-   [x] GUS-01 Architectural Design
+-   [x] GUS-02 Environments Definition
+-   [x] GUS-03 Repositories Definition
+-   [x] GUS-04 Methodology and Management
+-   [x] GUS-05 Splash Page
+-   [x] GUS-06 Healtcheck API
+-   [x] GUS-07 Database Access
+- GEP-02 Security
+-   [x] GUS-08 Users Definition
+-   [x] GUS-09 Authenticaion API
+-   [x] GUS-10 Login Page
+-   [x] GUS-11 Main Page
+- GEP-03 Mages
+-   [x] GUS-12 New Mage
+-   [x] GUS-13 Mages List
+-   [ ] GUS-14 Modify Mage
+-   [ ] GUS-15 Mages Migration
 
 
-You are welcome to help in making  **readMe master templates** better.
-
-The project is still very incomplete but under development. If there's an [issue](https://github.com/tamzi/ReadMe-MasterTemplates/issues) you'd like to see addressed sooner rather than later:
-
-- [Open an issue](https://github.com/tamzi/ReadMe-MasterTemplates/issues),
-
-    or JUST,
-
-- [Fork the project and send a pull request](https://github.com/tamzi/ReadMe-MasterTemplates/pulls).
-
-
-Before you contribute though read the contributing guide here: [CONTRIBUTING GUIDE](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/contributing.md)
-
-
-
+The project is still incomplete but under development.
 <hr>
 
 ### Releases
 - [x] [code of conduct](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/CodeOfConduct.md)
-- [x] [contribution](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/contributing.md)
+
 - [x] [Android ReadMe version](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
 - [x] [Web version](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)
 - [x] [A brief ReadMe](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/brief/brief.md)
