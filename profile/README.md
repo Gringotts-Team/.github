@@ -4,7 +4,7 @@
   </a>
   <h2 align="center"><a href="https://gringottsapp.netlify.app/home">Gringotts Bank</a></h2>
   <p align="center">
-This project was carried out through the internships undertaken at Kinetic Software. (Migrated from GitLab Private server to here)   
+This project was carried out through the internships undertaken at Kinetic Software. (Migrated from GitLab private server to here)   
     <br>
     </p>
 </p>
