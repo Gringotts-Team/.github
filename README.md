@@ -14,12 +14,10 @@ This project was carried out through the internships undertaken at Kinetic Softw
 
 ## Table of contents
 - [Description](#description)
-- [Why the MasterTemplates?](#why-the-master-templates)
-- [How to use them](#how-to-use-them)
+- [What is Gringoots App?](#What-is-Gringoots-App?)
+- [How to use](#how-to-use)
 - [Roadmap](#roadmap)
-- [Releases](#releases)
 - [Contributors](#contributors)
-- [Licence](#licence)
 
 <hr>
 
@@ -46,7 +44,7 @@ The application has two types of users with access to different functions. We pr
 
 <hr>
 
-### How to use them
+### How to use
 
 The aplication is deployed in https://gringottsapp.netlify.app
 
@@ -56,51 +54,42 @@ The aplication is deployed in https://gringottsapp.netlify.app
 ### Roadmap
   🚧 👷‍ ⛏ 👷 🔧️ 🚧
 - GEP-01 Release Zero
--   [x] GUS-01 Architectural Design
--   [x] GUS-02 Environments Definition
--   [x] GUS-03 Repositories Definition
--   [x] GUS-04 Methodology and Management
--   [x] GUS-05 Splash Page
--   [x] GUS-06 Healtcheck API
--   [x] GUS-07 Database Access
+  - [x] GUS-01 Architectural Design
+  - [x] GUS-02 Environments Definition
+  - [x] GUS-03 Repositories Definition
+  - [x] GUS-04 Methodology and Management
+  - [x] GUS-05 Splash Page
+  - [x] GUS-06 Healtcheck API
+  - [x] GUS-07 Database Access
 - GEP-02 Security
--   [x] GUS-08 Users Definition
--   [x] GUS-09 Authenticaion API
--   [x] GUS-10 Login Page
--   [x] GUS-11 Main Page
+  - [x] GUS-08 Users Definition
+  - [x] GUS-09 Authenticaion API
+  - [x] GUS-10 Login Page
+  - [x] GUS-11 Main Page
 - GEP-03 Mages
--   [x] GUS-12 New Mage
--   [x] GUS-13 Mages List
--   [ ] GUS-14 Modify Mage
--   [ ] GUS-15 Mages Migration
+  - [x] GUS-12 New Mage
+  - [x] GUS-13 Mages List
+  - [ ] GUS-14 Modify Mage
+  - [ ] GUS-15 Mages Migration
 
 
 The project is still incomplete but under development.
 <hr>
 
-### Releases
-- [x] [code of conduct](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/CodeOfConduct.md)
-
-- [x] [Android ReadMe version](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
-- [x] [Web version](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)
-- [x] [A brief ReadMe](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/brief/brief.md)
-
-
 ### Contributors
 
-<a href="https://github.com/tamzi/ReadMe-MasterTemplates/graphs/contributors">
-  <img src="https://contributors-img.firebaseapp.com/image?repo=tamzi/ReadMe-MasterTemplates" />
+<a href="https://github.com/JuanIAngeloni">
+  <img src="https://avatars.githubusercontent.com/u/65945927?v=4" width="50" height="50" />
+</a>
+<a href="https://github.com/SofiaBarbiero">
+  <img src="https://avatars.githubusercontent.com/u/57156828?s=96&v=4" width="50" height="50" />
+</a>
+<a href="https://github.com/stefano-frighetto">
+  <img src="https://avatars.githubusercontent.com/u/106117483?v=4" width="50" height="50" />
+</a>
+<a href="https://github.com/Juan-imo21">
+  <img src="https://avatars.githubusercontent.com/u/131096024?s=96&v=4" width="50" height="50" />
 </a>
 
-Twitter:  [@tamrefrank](https://twitter.com/tamrefrank)
-
-### Licence
 
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#)
-
-
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftamzi%2FReadMe-MasterTemplates.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftamzi%2FReadMe-MasterTemplates?ref=badge_large)
-
-<a href="https://www.producthunt.com/posts/readme-master-templates?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-readme-master-templates" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=186076&theme=light" alt="ReadMe Master Templates - Better ReadMe projects for your projects! | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
